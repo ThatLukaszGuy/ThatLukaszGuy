@@ -5,7 +5,7 @@
 
 
 
--  I’m currently learning **Blockchain development/Working with APIs/React/Neural Networks**
+-  I’m currently learning **Blockchain development/TS/React/Neural Networks**
 
 
 <p align="left">
