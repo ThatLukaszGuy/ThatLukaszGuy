@@ -2,7 +2,7 @@
  <a href="#"><img  width="60%" height="auto" src="programmer.svg" height="175px"/></a>
 </p>
 <h1 align="center">Hi , I'm Łukasz</h1>
-<h3 align="center">Upcoming Fullstack developer</h3>
+<h3 align="center">Upcoming Developer</h3>
 
 
 
