@@ -6,7 +6,7 @@
 
 
 
--  I’m currently learning **TS/Bash/ethical hacking**
+-  I’m currently learning **TS/Bash**
 
 
 <p align="left">
