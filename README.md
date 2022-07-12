@@ -6,7 +6,7 @@
 
 
 
--  I’m currently learning **TS/Bash**
+-  I’m currently learning **Rust**
 
 
 <p align="left">
