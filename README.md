@@ -6,7 +6,7 @@
 
 
 
--  I’m currently learning **Pygame**
+-  I’m currently learning **Rust**
 
 
 <p align="left">
