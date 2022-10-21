@@ -5,7 +5,7 @@
 <br>
 
 
--  I’m currently learning **Rust**
+-  I’m currently learning **ML in Python & Rust**
 
 
 <p align="left">
@@ -25,6 +25,6 @@
     <a href="https://github.com/ThatLukaszGuy/github-readme-stats"><img alt=" " src="https://github-readme-stats.vercel.app/api?username=ThatLukaszGuy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
  ## 📞 For Contact
-<a href="https://portfolio-coral-omega-69.vercel.app/contact" target="_blank" rel="noreferrer" alt="link" >Link Here</a><p>-> You'll be redirected to my Portfolio page at /contact </p>
+<a href="https://www.thatlukaszguy.dev/contact" target="_blank" rel="noreferrer" alt="link" >Link Here</a><p>-> You'll be redirected to my Portfolio page at /contact </p>
 <br/>
 <p align="left">ps: i like javascript... 🍉</p>
