@@ -16,12 +16,12 @@
 
  </p>
 
- ## 📊 Github Stats
+ ## 📊  Github Stats
 
   <br/>
-    <a href="https://github.com/ThatLukaszGuy/github-readme-stats"><img alt=" " src="https://github-readme-stats.vercel.app/api?username=thatlukaszguy&show_icons=true&theme=radical" /></a>
+    <a href="https://github.com/ThatLukaszGuy/github-readme-stats"><img width="60%" alt=" " src="https://github-readme-stats.vercel.app/api?username=thatlukaszguy&show_icons=true&theme=radical" /></a>
   <br/>
-    <a href="https://github.com/ThatLukaszGuy/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatlukaszguy&layout=compact&theme=radical"/></a>
+    <a href="https://github.com/ThatLukaszGuy/github-readme-stats"><img width="60%"  alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatlukaszguy&layout=compact&theme=radical"/></a>
 
 
 
