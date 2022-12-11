@@ -3,7 +3,7 @@
 <br>
 
 
--  I’m currently learning **ML in Python & Rust**
+-  I’m currently learning **Godot & Rust**
 
 
 <p align="left">
