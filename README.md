@@ -24,7 +24,9 @@
 
 
  ##  For Contact / Work
-<p>If you want something done, you can email me from my site :)</p><p>( You'll be redirected to my Portfolio page at /contact )</p>
-<a href="https://www.thatlukaszguy.dev/contact" target="_blank" rel="noreferrer" alt="link" >Link Here >></a>
+<p>If you want something done, you can email me from my site :)</p><p>( You'll be redirected to my Portfolio page at /contact ) [Form is temporarily disabled.]</p>
+ <a href="https://www.thatlukaszguy.dev/contact" target="_blank" rel="noreferrer" alt="link" >Link Here >></a>
+
+
 
 <br><p align="left">ps: i like javascript & rust... 🍉</p>
